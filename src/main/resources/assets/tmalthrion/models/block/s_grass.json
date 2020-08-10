@@ -1,0 +1,8 @@
+{
+   "parent": "block/cube_bottom_top",
+   "textures": {
+       "top": "tmalthrion:blocks/s_grass",
+       "side": "tmalthrion:blocks/sg_side",
+       "bottom": "tmalthrion:blocks/s_dirt"
+   }
+}

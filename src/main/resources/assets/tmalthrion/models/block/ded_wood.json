@@ -1,0 +1,8 @@
+{
+   "parent": "block/cube_bottom_top",
+   "textures": {
+       "top": "tmalthrion:blocks/ded_wood_top",
+       "side": "tmalthrion:blocks/ded_wood",
+       "bottom": "tmalthrion:blocks/ded_wood_top"
+   }
+}

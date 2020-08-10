@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        
+        "I":
+        {
+            "item": "tmm:rs_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tmm:rs_gem",
+        "count": 1
+    }
+}

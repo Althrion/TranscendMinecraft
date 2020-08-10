@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "tmm:rs_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "tmm:rs_gem",
+        "count": 2
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "tmalthrion:portal_1_ew" },
+        "axis=x": { "model": "tmalthrion:portal_1_ns" }
+    }
+}

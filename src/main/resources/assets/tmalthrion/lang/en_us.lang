@@ -1,0 +1,23 @@
+
+//Items
+item.data_crystal_tool.name=Data Crystal
+item.rs_ingot.name=Ingot of raw Shadow
+item.r_stick.name=Reinforced Stick
+item.s_ingot.name=Ingot of Shadows
+
+//Blocks
+tile.s_dirt.name=Dirt of the Damned
+tile.s_grass.name=Dead Grass Block
+tile.t_obsidian.name=Transcended Obsidian
+
+//Tools
+
+
+//Weapons
+
+
+//Armor
+
+
+//Misc
+itemGroup.testtab=Test tab
